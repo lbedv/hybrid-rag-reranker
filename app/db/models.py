@@ -11,6 +11,7 @@ from sqlalchemy import (
 )
 from sqlalchemy.dialects.postgresql import TSVECTOR, UUID
 
+from app.core.config import settings
 from app.db.session import Base
 
 
@@ -28,7 +29,7 @@ class Incident(Base):
         nullable=False,
     )
     occurred_at = Column(DateTime(timezone=True), nullable=False)
-    embedding = Column(Vector(1536), nullable=False)
+    embedding = Column(Vector(settings.EMBEDDING_DIM), nullable=False)
 
     # Generated stored tsvector column for fast full-text search
     search_vector = Column(

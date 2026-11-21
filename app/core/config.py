@@ -11,6 +11,7 @@ class Settings(BaseSettings):
     DATABASE_URL: str = "postgresql+psycopg://postgres:postgres@localhost:5432/hybrid_rag"
     OPENAI_API_KEY: str | None = None
     EMBEDDING_MODEL: str = "text-embedding-3-small"
+    EMBEDDING_DIM: int = 1536
     COMPLETION_MODEL: str = "gpt-4o-mini"
 
     # Default retrieval & reranking parameters

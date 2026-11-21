@@ -1,0 +1,902 @@
+[
+  {
+    "id": "6a77fce8-3205-5d3c-8de0-f603ae1e4b8d",
+    "title": "Emergency customs inspection hold on critical semiconductor shipment at Port of Rotterdam",
+    "content": "Dutch customs authorities placed a high-priority physical inspection hold on container MSCU-772910 carrying advanced ASML lithography microchips at Rotterdam terminal. Expected delay exceeds 72 hours, impacting automotive assembly plants.",
+    "category": "customs",
+    "region": "EU-West",
+    "severity_level": 5,
+    "occurred_at": "2026-11-18T12:00:00+00:00"
+  },
+  {
+    "id": "96a66b75-48b3-547c-984f-adfd735fe735",
+    "title": "Routine customs documentation verification for semiconductor cargo at Rotterdam harbor",
+    "content": "Standard documentary audit performed on consignment of legacy semiconductor wafers at Rotterdam port. Cleared within 4 hours with no disruption to production line schedules.",
+    "category": "customs",
+    "region": "EU-West",
+    "severity_level": 2,
+    "occurred_at": "2026-06-08T12:00:00+00:00"
+  },
+  {
+    "id": "6ddebb0e-0954-5cbe-bd57-a687bf357cfb",
+    "title": "Minor cosmetic box crease on temperature-controlled vaccine parcel in Frankfurt hub",
+    "content": "Warehouse handlers reported slight surface denting on outer secondary cardboard packaging of pediatric vaccine shipment. Cold chain temperature logger remained within strict +2C to +8C bounds; cargo approved for release.",
+    "category": "damage",
+    "region": "EU-West",
+    "severity_level": 1,
+    "occurred_at": "2026-11-12T12:00:00+00:00"
+  },
+  {
+    "id": "acb45b3f-7feb-51db-b8d8-efe4ac45ca4a",
+    "title": "Catastrophic reefer cooling system failure and total spoilage of pediatric vaccines",
+    "content": "Refrigerated container unit REEF-401 experienced electrical compressor failure during transit at Frankfurt air hub. Internal temperatures rose to +28C for over 18 hours, causing total loss of 50,000 vaccine vials.",
+    "category": "damage",
+    "region": "EU-West",
+    "severity_level": 5,
+    "occurred_at": "2026-11-10T12:00:00+00:00"
+  },
+  {
+    "id": "00b36f09-26ee-5d88-9729-179503e7a178",
+    "title": "Automated customs declarations portal outage halting all cross-border clearance",
+    "content": "Federal customs API endpoint crashed with error ERR-CUSTOMS-API-TIMEOUT, preventing export declaration filings for over 400 freight forwarding trucks at Dover checkpoint.",
+    "category": "customs",
+    "region": "EU-West",
+    "severity_level": 4,
+    "occurred_at": "2026-11-05T12:00:00+00:00"
+  },
+  {
+    "id": "768ac62f-f51c-5071-8c8c-98ff9e704488",
+    "title": "Multi-mile motorway congestion delaying truck arrivals at Dover ferry terminal",
+    "content": "Severe road traffic bottleneck on highway M20 caused extensive driver queueing and logistics schedule delays reaching 14 hours for Dover cross-channel departures.",
+    "category": "delay",
+    "region": "EU-West",
+    "severity_level": 3,
+    "occurred_at": "2026-11-04T12:00:00+00:00"
+  },
+  {
+    "id": "9470ae23-cd48-5ea8-89d7-72d9842cda6e",
+    "title": "Critical database locking exception code ERR-PORT-ROTTERDAM-882 in gate automation",
+    "content": "Terminal operating system TOS encountered deadlocks throwing code ERR-PORT-ROTTERDAM-882. Automated optical character recognition gates failed to process incoming chassis CNTR-9942.",
+    "category": "network",
+    "region": "EU-West",
+    "severity_level": 4,
+    "occurred_at": "2026-11-15T12:00:00+00:00"
+  },
+  {
+    "id": "2470fd14-6ce0-5f26-bcb0-b8cf2cb27690",
+    "title": "Container tracking disparity on intermodal flatbed unit CONTAINER-TRUCK-991",
+    "content": "Telematics GPS transmitter on trailer CONTAINER-TRUCK-991 stopped broadcasting sensor telemetry while traversing the Swiss Alps corridor.",
+    "category": "hardware",
+    "region": "EU-West",
+    "severity_level": 2,
+    "occurred_at": "2026-10-29T12:00:00+00:00"
+  },
+  {
+    "id": "e6b1a2fc-d99b-5be0-8752-900348da6259",
+    "title": "Maritime canal transit blockage by mega container vessel VESSEL-EVER-GIVEN-44",
+    "content": "Ultra-large container ship VESSEL-EVER-GIVEN-44 suffered sudden rudder control malfunction, grounding bank-to-bank and obstructing all south-bound maritime convoy traffic.",
+    "category": "delay",
+    "region": "APAC",
+    "severity_level": 5,
+    "occurred_at": "2026-10-11T12:00:00+00:00"
+  },
+  {
+    "id": "53d16576-ccce-5e30-880f-6fa4aa689ee1",
+    "title": "Tariff classification dispute under customs code HS-CODE-8471 for automated data servers",
+    "content": "Customs border agents challenged declaration HS-CODE-8471 claiming industrial GPU computing racks should be classified under telecommunications equipment HS-CODE-8517.",
+    "category": "compliance",
+    "region": "US-East",
+    "severity_level": 3,
+    "occurred_at": "2026-10-16T12:00:00+00:00"
+  },
+  {
+    "id": "da5d8126-9a01-531d-a1b3-bee44b519062",
+    "title": "Airport cargo tarmac delay due to extreme winter blizzard #11",
+    "content": "Cargo flights grounded at Chicago O'Hare due to heavy snowfall and runway de-icing chemical shortages. Tracked incident identifier batch REF-0011. Local operations coordinator filed regional report for LATAM.",
+    "category": "delay",
+    "region": "LATAM",
+    "severity_level": 4,
+    "occurred_at": "2026-11-10T01:00:00+00:00"
+  },
+  {
+    "id": "00ff3cb3-960d-5c74-a942-bac3c34e68ba",
+    "title": "Stolen high-value pallet of smartphones from distribution warehouse #12",
+    "content": "Organized freight theft gang breached perimeter fencing and stole 400 consumer electronics units. Tracked incident identifier batch REF-0012. Local operations coordinator filed regional report for EU-West.",
+    "category": "lost",
+    "region": "EU-West",
+    "severity_level": 2,
+    "occurred_at": "2026-10-24T00:00:00+00:00"
+  },
+  {
+    "id": "bc6a5ee9-4471-5db2-b2c1-6f75f76433c7",
+    "title": "Forklift puncture in chemical drum causing hazardous spill #13",
+    "content": "Operator error resulted in punctured 55-gallon drum of industrial solvent; hazmat containment team deployed. Tracked incident identifier batch REF-0013. Local operations coordinator filed regional report for US-East.",
+    "category": "damage",
+    "region": "US-East",
+    "severity_level": 5,
+    "occurred_at": "2026-10-06T23:00:00+00:00"
+  },
+  {
+    "id": "9ca5e76f-8b21-59f9-ab80-d0a45af17470",
+    "title": "Port congestion and container dwell time surge in Long Beach #14",
+    "content": "Average dwell time for import containers exceeded 9 days due to railcar availability deficits. Tracked incident identifier batch REF-0014. Local operations coordinator filed regional report for APAC.",
+    "category": "delay",
+    "region": "APAC",
+    "severity_level": 3,
+    "occurred_at": "2026-09-19T22:00:00+00:00"
+  },
+  {
+    "id": "76f4a140-9635-562d-b037-a05ea9350750",
+    "title": "Subsea fiber optic cable cut interrupting transpacific logistics EDI #15",
+    "content": "Undersea earthquake ruptured communications cable near Taiwan, degrading manifest synchronization. Tracked incident identifier batch REF-0015. Local operations coordinator filed regional report for LATAM.",
+    "category": "network",
+    "region": "LATAM",
+    "severity_level": 1,
+    "occurred_at": "2026-09-02T21:00:00+00:00"
+  },
+  {
+    "id": "67a096ed-2f7f-5720-a804-a8f10360da46",
+    "title": "Counterfeit tamper-evident seals detected on pharmaceutical container #16",
+    "content": "Security inspection discovered duplicated bolt seals with altered serial numbering on narcotics cargo. Tracked incident identifier batch REF-0016. Local operations coordinator filed regional report for EU-West.",
+    "category": "security",
+    "region": "EU-West",
+    "severity_level": 4,
+    "occurred_at": "2026-08-16T20:00:00+00:00"
+  },
+  {
+    "id": "c0009f6e-8e98-5c9d-a9cb-a51325906a90",
+    "title": "Warehouse automated guided vehicle (AGV) sensor failure and collision #17",
+    "content": "LiDAR sensor blind spot on AGV unit 14 caused collision with pallet rack upright beam. Tracked incident identifier batch REF-0017. Local operations coordinator filed regional report for US-East.",
+    "category": "hardware",
+    "region": "US-East",
+    "severity_level": 2,
+    "occurred_at": "2026-07-30T19:00:00+00:00"
+  },
+  {
+    "id": "3c372744-98ea-518c-b09f-8e141378aee8",
+    "title": "Customs audit discovering undeclared lithium-ion battery modules #18",
+    "content": "Dangerous goods audit flagged missing MSDS certification for bulk secondary power cell consignment. Tracked incident identifier batch REF-0018. Local operations coordinator filed regional report for APAC.",
+    "category": "compliance",
+    "region": "APAC",
+    "severity_level": 5,
+    "occurred_at": "2026-07-13T18:00:00+00:00"
+  },
+  {
+    "id": "4c467e3f-6898-5364-8bad-764340a60f5c",
+    "title": "Barge grounding on Rhine River due to severe summer drought #19",
+    "content": "Low water levels restricted maximum barge draft, forcing freight transfer to overloaded rail corridors. Tracked incident identifier batch REF-0019. Local operations coordinator filed regional report for LATAM.",
+    "category": "delay",
+    "region": "LATAM",
+    "severity_level": 3,
+    "occurred_at": "2026-06-26T17:00:00+00:00"
+  },
+  {
+    "id": "16a00208-fcac-5977-8e06-6a973d8dcef6",
+    "title": "Damaged solar panel pallets during intermodal rail hump switching #20",
+    "content": "Excessive coupling impact speeds in rail classification yard fractured tempered glass on 60 solar modules. Tracked incident identifier batch REF-0020. Local operations coordinator filed regional report for EU-West.",
+    "category": "damage",
+    "region": "EU-West",
+    "severity_level": 1,
+    "occurred_at": "2026-06-09T16:00:00+00:00"
+  },
+  {
+    "id": "ebcb1759-c1d4-5a15-a5fc-413eee544f93",
+    "title": "Airport cargo tarmac delay due to extreme winter blizzard #21",
+    "content": "Cargo flights grounded at Chicago O'Hare due to heavy snowfall and runway de-icing chemical shortages. Tracked incident identifier batch REF-0021. Local operations coordinator filed regional report for US-East.",
+    "category": "delay",
+    "region": "US-East",
+    "severity_level": 4,
+    "occurred_at": "2026-11-17T15:00:00+00:00"
+  },
+  {
+    "id": "4fe5cad2-8a55-5c6d-b2bf-3b0e42a5df2c",
+    "title": "Stolen high-value pallet of smartphones from distribution warehouse #22",
+    "content": "Organized freight theft gang breached perimeter fencing and stole 400 consumer electronics units. Tracked incident identifier batch REF-0022. Local operations coordinator filed regional report for APAC.",
+    "category": "lost",
+    "region": "APAC",
+    "severity_level": 2,
+    "occurred_at": "2026-10-31T14:00:00+00:00"
+  },
+  {
+    "id": "255b861d-300a-5813-89cf-2642183755cd",
+    "title": "Forklift puncture in chemical drum causing hazardous spill #23",
+    "content": "Operator error resulted in punctured 55-gallon drum of industrial solvent; hazmat containment team deployed. Tracked incident identifier batch REF-0023. Local operations coordinator filed regional report for LATAM.",
+    "category": "damage",
+    "region": "LATAM",
+    "severity_level": 5,
+    "occurred_at": "2026-10-14T13:00:00+00:00"
+  },
+  {
+    "id": "bb7c0cd7-7345-58aa-a31a-aba3a0af08de",
+    "title": "Port congestion and container dwell time surge in Long Beach #24",
+    "content": "Average dwell time for import containers exceeded 9 days due to railcar availability deficits. Tracked incident identifier batch REF-0024. Local operations coordinator filed regional report for EU-West.",
+    "category": "delay",
+    "region": "EU-West",
+    "severity_level": 3,
+    "occurred_at": "2026-09-28T12:00:00+00:00"
+  },
+  {
+    "id": "5b6c3382-7a98-52dc-a577-204d8959cf00",
+    "title": "Subsea fiber optic cable cut interrupting transpacific logistics EDI #25",
+    "content": "Undersea earthquake ruptured communications cable near Taiwan, degrading manifest synchronization. Tracked incident identifier batch REF-0025. Local operations coordinator filed regional report for US-East.",
+    "category": "network",
+    "region": "US-East",
+    "severity_level": 1,
+    "occurred_at": "2026-09-11T11:00:00+00:00"
+  },
+  {
+    "id": "f82a177a-7dcc-5e74-8c7d-8dc23bc833c8",
+    "title": "Counterfeit tamper-evident seals detected on pharmaceutical container #26",
+    "content": "Security inspection discovered duplicated bolt seals with altered serial numbering on narcotics cargo. Tracked incident identifier batch REF-0026. Local operations coordinator filed regional report for APAC.",
+    "category": "security",
+    "region": "APAC",
+    "severity_level": 4,
+    "occurred_at": "2026-08-25T10:00:00+00:00"
+  },
+  {
+    "id": "f56666c3-140f-52bc-8862-78047ba91576",
+    "title": "Warehouse automated guided vehicle (AGV) sensor failure and collision #27",
+    "content": "LiDAR sensor blind spot on AGV unit 14 caused collision with pallet rack upright beam. Tracked incident identifier batch REF-0027. Local operations coordinator filed regional report for LATAM.",
+    "category": "hardware",
+    "region": "LATAM",
+    "severity_level": 2,
+    "occurred_at": "2026-08-08T09:00:00+00:00"
+  },
+  {
+    "id": "a98b554c-4a6a-54cc-903e-2291f25af23e",
+    "title": "Customs audit discovering undeclared lithium-ion battery modules #28",
+    "content": "Dangerous goods audit flagged missing MSDS certification for bulk secondary power cell consignment. Tracked incident identifier batch REF-0028. Local operations coordinator filed regional report for EU-West.",
+    "category": "compliance",
+    "region": "EU-West",
+    "severity_level": 5,
+    "occurred_at": "2026-07-22T08:00:00+00:00"
+  },
+  {
+    "id": "09b993da-9978-5280-b30b-2eb56ffc5d43",
+    "title": "Barge grounding on Rhine River due to severe summer drought #29",
+    "content": "Low water levels restricted maximum barge draft, forcing freight transfer to overloaded rail corridors. Tracked incident identifier batch REF-0029. Local operations coordinator filed regional report for US-East.",
+    "category": "delay",
+    "region": "US-East",
+    "severity_level": 3,
+    "occurred_at": "2026-07-05T07:00:00+00:00"
+  },
+  {
+    "id": "0e3f6e48-4bee-5ace-926c-196d0b1e8049",
+    "title": "Damaged solar panel pallets during intermodal rail hump switching #30",
+    "content": "Excessive coupling impact speeds in rail classification yard fractured tempered glass on 60 solar modules. Tracked incident identifier batch REF-0030. Local operations coordinator filed regional report for APAC.",
+    "category": "damage",
+    "region": "APAC",
+    "severity_level": 1,
+    "occurred_at": "2026-06-18T06:00:00+00:00"
+  },
+  {
+    "id": "2e08c200-6c21-5014-8949-5508b07ab8d8",
+    "title": "Airport cargo tarmac delay due to extreme winter blizzard #31",
+    "content": "Cargo flights grounded at Chicago O'Hare due to heavy snowfall and runway de-icing chemical shortages. Tracked incident identifier batch REF-0031. Local operations coordinator filed regional report for LATAM.",
+    "category": "delay",
+    "region": "LATAM",
+    "severity_level": 4,
+    "occurred_at": "2026-06-01T05:00:00+00:00"
+  },
+  {
+    "id": "d63f3b3c-bfde-59fa-8514-99dda2e79d94",
+    "title": "Stolen high-value pallet of smartphones from distribution warehouse #32",
+    "content": "Organized freight theft gang breached perimeter fencing and stole 400 consumer electronics units. Tracked incident identifier batch REF-0032. Local operations coordinator filed regional report for EU-West.",
+    "category": "lost",
+    "region": "EU-West",
+    "severity_level": 2,
+    "occurred_at": "2026-11-09T04:00:00+00:00"
+  },
+  {
+    "id": "1d648a04-f289-5697-b233-fe8990676e4f",
+    "title": "Forklift puncture in chemical drum causing hazardous spill #33",
+    "content": "Operator error resulted in punctured 55-gallon drum of industrial solvent; hazmat containment team deployed. Tracked incident identifier batch REF-0033. Local operations coordinator filed regional report for US-East.",
+    "category": "damage",
+    "region": "US-East",
+    "severity_level": 5,
+    "occurred_at": "2026-10-23T03:00:00+00:00"
+  },
+  {
+    "id": "f8da6522-65c0-53ce-9424-6e248246a260",
+    "title": "Port congestion and container dwell time surge in Long Beach #34",
+    "content": "Average dwell time for import containers exceeded 9 days due to railcar availability deficits. Tracked incident identifier batch REF-0034. Local operations coordinator filed regional report for APAC.",
+    "category": "delay",
+    "region": "APAC",
+    "severity_level": 3,
+    "occurred_at": "2026-10-06T02:00:00+00:00"
+  },
+  {
+    "id": "d5bc1d14-5ba2-529f-9136-925a099651e4",
+    "title": "Subsea fiber optic cable cut interrupting transpacific logistics EDI #35",
+    "content": "Undersea earthquake ruptured communications cable near Taiwan, degrading manifest synchronization. Tracked incident identifier batch REF-0035. Local operations coordinator filed regional report for LATAM.",
+    "category": "network",
+    "region": "LATAM",
+    "severity_level": 1,
+    "occurred_at": "2026-09-19T01:00:00+00:00"
+  },
+  {
+    "id": "05ad3c8e-7747-5dff-832e-d9cd9572f9e2",
+    "title": "Counterfeit tamper-evident seals detected on pharmaceutical container #36",
+    "content": "Security inspection discovered duplicated bolt seals with altered serial numbering on narcotics cargo. Tracked incident identifier batch REF-0036. Local operations coordinator filed regional report for EU-West.",
+    "category": "security",
+    "region": "EU-West",
+    "severity_level": 4,
+    "occurred_at": "2026-09-02T00:00:00+00:00"
+  },
+  {
+    "id": "83a7d3fa-ac42-5d0c-ac29-f09e63dd47db",
+    "title": "Warehouse automated guided vehicle (AGV) sensor failure and collision #37",
+    "content": "LiDAR sensor blind spot on AGV unit 14 caused collision with pallet rack upright beam. Tracked incident identifier batch REF-0037. Local operations coordinator filed regional report for US-East.",
+    "category": "hardware",
+    "region": "US-East",
+    "severity_level": 2,
+    "occurred_at": "2026-08-15T23:00:00+00:00"
+  },
+  {
+    "id": "ed1eb2bd-c8cd-5f92-8ece-17d43afa1bab",
+    "title": "Customs audit discovering undeclared lithium-ion battery modules #38",
+    "content": "Dangerous goods audit flagged missing MSDS certification for bulk secondary power cell consignment. Tracked incident identifier batch REF-0038. Local operations coordinator filed regional report for APAC.",
+    "category": "compliance",
+    "region": "APAC",
+    "severity_level": 5,
+    "occurred_at": "2026-07-29T22:00:00+00:00"
+  },
+  {
+    "id": "19cf2706-7b5b-5271-ae69-21682aec8aaf",
+    "title": "Barge grounding on Rhine River due to severe summer drought #39",
+    "content": "Low water levels restricted maximum barge draft, forcing freight transfer to overloaded rail corridors. Tracked incident identifier batch REF-0039. Local operations coordinator filed regional report for LATAM.",
+    "category": "delay",
+    "region": "LATAM",
+    "severity_level": 3,
+    "occurred_at": "2026-07-12T21:00:00+00:00"
+  },
+  {
+    "id": "a7659f2b-64ee-5370-8509-7da78e584193",
+    "title": "Damaged solar panel pallets during intermodal rail hump switching #40",
+    "content": "Excessive coupling impact speeds in rail classification yard fractured tempered glass on 60 solar modules. Tracked incident identifier batch REF-0040. Local operations coordinator filed regional report for EU-West.",
+    "category": "damage",
+    "region": "EU-West",
+    "severity_level": 1,
+    "occurred_at": "2026-06-25T20:00:00+00:00"
+  },
+  {
+    "id": "d9a0c7e6-9b43-5d2c-88fd-5441c3003628",
+    "title": "Airport cargo tarmac delay due to extreme winter blizzard #41",
+    "content": "Cargo flights grounded at Chicago O'Hare due to heavy snowfall and runway de-icing chemical shortages. Tracked incident identifier batch REF-0041. Local operations coordinator filed regional report for US-East.",
+    "category": "delay",
+    "region": "US-East",
+    "severity_level": 4,
+    "occurred_at": "2026-06-08T19:00:00+00:00"
+  },
+  {
+    "id": "8c2efbb0-9dc6-5325-b966-35a03ad71993",
+    "title": "Stolen high-value pallet of smartphones from distribution warehouse #42",
+    "content": "Organized freight theft gang breached perimeter fencing and stole 400 consumer electronics units. Tracked incident identifier batch REF-0042. Local operations coordinator filed regional report for APAC.",
+    "category": "lost",
+    "region": "APAC",
+    "severity_level": 2,
+    "occurred_at": "2026-11-16T18:00:00+00:00"
+  },
+  {
+    "id": "0d5c24bc-78a0-50c9-95f5-2354219c7dc4",
+    "title": "Forklift puncture in chemical drum causing hazardous spill #43",
+    "content": "Operator error resulted in punctured 55-gallon drum of industrial solvent; hazmat containment team deployed. Tracked incident identifier batch REF-0043. Local operations coordinator filed regional report for LATAM.",
+    "category": "damage",
+    "region": "LATAM",
+    "severity_level": 5,
+    "occurred_at": "2026-10-30T17:00:00+00:00"
+  },
+  {
+    "id": "246144e3-e739-5f80-97ad-631b95c752da",
+    "title": "Port congestion and container dwell time surge in Long Beach #44",
+    "content": "Average dwell time for import containers exceeded 9 days due to railcar availability deficits. Tracked incident identifier batch REF-0044. Local operations coordinator filed regional report for EU-West.",
+    "category": "delay",
+    "region": "EU-West",
+    "severity_level": 3,
+    "occurred_at": "2026-10-13T16:00:00+00:00"
+  },
+  {
+    "id": "ca1fdd12-8120-5491-95f9-acbb2733993d",
+    "title": "Subsea fiber optic cable cut interrupting transpacific logistics EDI #45",
+    "content": "Undersea earthquake ruptured communications cable near Taiwan, degrading manifest synchronization. Tracked incident identifier batch REF-0045. Local operations coordinator filed regional report for US-East.",
+    "category": "network",
+    "region": "US-East",
+    "severity_level": 1,
+    "occurred_at": "2026-09-26T15:00:00+00:00"
+  },
+  {
+    "id": "81909789-a71c-59be-b564-56d9638c7f0b",
+    "title": "Counterfeit tamper-evident seals detected on pharmaceutical container #46",
+    "content": "Security inspection discovered duplicated bolt seals with altered serial numbering on narcotics cargo. Tracked incident identifier batch REF-0046. Local operations coordinator filed regional report for APAC.",
+    "category": "security",
+    "region": "APAC",
+    "severity_level": 4,
+    "occurred_at": "2026-09-09T14:00:00+00:00"
+  },
+  {
+    "id": "f7e64b65-72c7-5d1f-95bc-5bb1b67070c1",
+    "title": "Warehouse automated guided vehicle (AGV) sensor failure and collision #47",
+    "content": "LiDAR sensor blind spot on AGV unit 14 caused collision with pallet rack upright beam. Tracked incident identifier batch REF-0047. Local operations coordinator filed regional report for LATAM.",
+    "category": "hardware",
+    "region": "LATAM",
+    "severity_level": 2,
+    "occurred_at": "2026-08-23T13:00:00+00:00"
+  },
+  {
+    "id": "77df8417-027a-5af1-beba-dffb8f7de772",
+    "title": "Customs audit discovering undeclared lithium-ion battery modules #48",
+    "content": "Dangerous goods audit flagged missing MSDS certification for bulk secondary power cell consignment. Tracked incident identifier batch REF-0048. Local operations coordinator filed regional report for EU-West.",
+    "category": "compliance",
+    "region": "EU-West",
+    "severity_level": 5,
+    "occurred_at": "2026-08-07T12:00:00+00:00"
+  },
+  {
+    "id": "17cd40f1-3539-5008-8728-bdee3ee3e015",
+    "title": "Barge grounding on Rhine River due to severe summer drought #49",
+    "content": "Low water levels restricted maximum barge draft, forcing freight transfer to overloaded rail corridors. Tracked incident identifier batch REF-0049. Local operations coordinator filed regional report for US-East.",
+    "category": "delay",
+    "region": "US-East",
+    "severity_level": 3,
+    "occurred_at": "2026-07-21T11:00:00+00:00"
+  },
+  {
+    "id": "78b137e3-c7e0-5e8c-8181-47c79e207117",
+    "title": "Damaged solar panel pallets during intermodal rail hump switching #50",
+    "content": "Excessive coupling impact speeds in rail classification yard fractured tempered glass on 60 solar modules. Tracked incident identifier batch REF-0050. Local operations coordinator filed regional report for APAC.",
+    "category": "damage",
+    "region": "APAC",
+    "severity_level": 1,
+    "occurred_at": "2026-07-04T10:00:00+00:00"
+  },
+  {
+    "id": "d23e6be1-f15f-5a0d-a59a-3cde9b8ad343",
+    "title": "Airport cargo tarmac delay due to extreme winter blizzard #51",
+    "content": "Cargo flights grounded at Chicago O'Hare due to heavy snowfall and runway de-icing chemical shortages. Tracked incident identifier batch REF-0051. Local operations coordinator filed regional report for LATAM.",
+    "category": "delay",
+    "region": "LATAM",
+    "severity_level": 4,
+    "occurred_at": "2026-06-17T09:00:00+00:00"
+  },
+  {
+    "id": "e989f911-deae-5115-944d-24bf32745ec7",
+    "title": "Stolen high-value pallet of smartphones from distribution warehouse #52",
+    "content": "Organized freight theft gang breached perimeter fencing and stole 400 consumer electronics units. Tracked incident identifier batch REF-0052. Local operations coordinator filed regional report for EU-West.",
+    "category": "lost",
+    "region": "EU-West",
+    "severity_level": 2,
+    "occurred_at": "2026-05-31T08:00:00+00:00"
+  },
+  {
+    "id": "647b32a3-fdb9-5f59-bce4-08fab8b42241",
+    "title": "Forklift puncture in chemical drum causing hazardous spill #53",
+    "content": "Operator error resulted in punctured 55-gallon drum of industrial solvent; hazmat containment team deployed. Tracked incident identifier batch REF-0053. Local operations coordinator filed regional report for US-East.",
+    "category": "damage",
+    "region": "US-East",
+    "severity_level": 5,
+    "occurred_at": "2026-11-08T07:00:00+00:00"
+  },
+  {
+    "id": "04fe1b9a-15f6-548e-804c-a546bf9bab5b",
+    "title": "Port congestion and container dwell time surge in Long Beach #54",
+    "content": "Average dwell time for import containers exceeded 9 days due to railcar availability deficits. Tracked incident identifier batch REF-0054. Local operations coordinator filed regional report for APAC.",
+    "category": "delay",
+    "region": "APAC",
+    "severity_level": 3,
+    "occurred_at": "2026-10-22T06:00:00+00:00"
+  },
+  {
+    "id": "b531be2f-71f7-57e5-b5dc-fd15802b61af",
+    "title": "Subsea fiber optic cable cut interrupting transpacific logistics EDI #55",
+    "content": "Undersea earthquake ruptured communications cable near Taiwan, degrading manifest synchronization. Tracked incident identifier batch REF-0055. Local operations coordinator filed regional report for LATAM.",
+    "category": "network",
+    "region": "LATAM",
+    "severity_level": 1,
+    "occurred_at": "2026-10-05T05:00:00+00:00"
+  },
+  {
+    "id": "5bb09a1c-d080-5648-bf08-5a54e1e77291",
+    "title": "Counterfeit tamper-evident seals detected on pharmaceutical container #56",
+    "content": "Security inspection discovered duplicated bolt seals with altered serial numbering on narcotics cargo. Tracked incident identifier batch REF-0056. Local operations coordinator filed regional report for EU-West.",
+    "category": "security",
+    "region": "EU-West",
+    "severity_level": 4,
+    "occurred_at": "2026-09-18T04:00:00+00:00"
+  },
+  {
+    "id": "4593a53e-9a23-533a-a2be-ab75f2417d95",
+    "title": "Warehouse automated guided vehicle (AGV) sensor failure and collision #57",
+    "content": "LiDAR sensor blind spot on AGV unit 14 caused collision with pallet rack upright beam. Tracked incident identifier batch REF-0057. Local operations coordinator filed regional report for US-East.",
+    "category": "hardware",
+    "region": "US-East",
+    "severity_level": 2,
+    "occurred_at": "2026-09-01T03:00:00+00:00"
+  },
+  {
+    "id": "b16eeb27-5ef7-5a40-a4fb-647dc735cd71",
+    "title": "Customs audit discovering undeclared lithium-ion battery modules #58",
+    "content": "Dangerous goods audit flagged missing MSDS certification for bulk secondary power cell consignment. Tracked incident identifier batch REF-0058. Local operations coordinator filed regional report for APAC.",
+    "category": "compliance",
+    "region": "APAC",
+    "severity_level": 5,
+    "occurred_at": "2026-08-15T02:00:00+00:00"
+  },
+  {
+    "id": "5e209958-d00d-5a7b-b493-ee5519986569",
+    "title": "Barge grounding on Rhine River due to severe summer drought #59",
+    "content": "Low water levels restricted maximum barge draft, forcing freight transfer to overloaded rail corridors. Tracked incident identifier batch REF-0059. Local operations coordinator filed regional report for LATAM.",
+    "category": "delay",
+    "region": "LATAM",
+    "severity_level": 3,
+    "occurred_at": "2026-07-29T01:00:00+00:00"
+  },
+  {
+    "id": "86621dce-7019-5ec4-9184-85ca21ded7cb",
+    "title": "Damaged solar panel pallets during intermodal rail hump switching #60",
+    "content": "Excessive coupling impact speeds in rail classification yard fractured tempered glass on 60 solar modules. Tracked incident identifier batch REF-0060. Local operations coordinator filed regional report for EU-West.",
+    "category": "damage",
+    "region": "EU-West",
+    "severity_level": 1,
+    "occurred_at": "2026-07-12T00:00:00+00:00"
+  },
+  {
+    "id": "6c9e9731-4445-554d-b4b9-08ed4cd1d7da",
+    "title": "Airport cargo tarmac delay due to extreme winter blizzard #61",
+    "content": "Cargo flights grounded at Chicago O'Hare due to heavy snowfall and runway de-icing chemical shortages. Tracked incident identifier batch REF-0061. Local operations coordinator filed regional report for US-East.",
+    "category": "delay",
+    "region": "US-East",
+    "severity_level": 4,
+    "occurred_at": "2026-06-24T23:00:00+00:00"
+  },
+  {
+    "id": "5f57c041-fdff-550f-97bf-16e3559c533a",
+    "title": "Stolen high-value pallet of smartphones from distribution warehouse #62",
+    "content": "Organized freight theft gang breached perimeter fencing and stole 400 consumer electronics units. Tracked incident identifier batch REF-0062. Local operations coordinator filed regional report for APAC.",
+    "category": "lost",
+    "region": "APAC",
+    "severity_level": 2,
+    "occurred_at": "2026-06-07T22:00:00+00:00"
+  },
+  {
+    "id": "d21955f5-72c7-5454-a916-3cf7bd532104",
+    "title": "Forklift puncture in chemical drum causing hazardous spill #63",
+    "content": "Operator error resulted in punctured 55-gallon drum of industrial solvent; hazmat containment team deployed. Tracked incident identifier batch REF-0063. Local operations coordinator filed regional report for LATAM.",
+    "category": "damage",
+    "region": "LATAM",
+    "severity_level": 5,
+    "occurred_at": "2026-11-15T21:00:00+00:00"
+  },
+  {
+    "id": "ca32c9d3-ff71-5197-9d4e-f29519a11653",
+    "title": "Port congestion and container dwell time surge in Long Beach #64",
+    "content": "Average dwell time for import containers exceeded 9 days due to railcar availability deficits. Tracked incident identifier batch REF-0064. Local operations coordinator filed regional report for EU-West.",
+    "category": "delay",
+    "region": "EU-West",
+    "severity_level": 3,
+    "occurred_at": "2026-10-29T20:00:00+00:00"
+  },
+  {
+    "id": "c095114b-bcd0-5730-8e61-b96539162c0b",
+    "title": "Subsea fiber optic cable cut interrupting transpacific logistics EDI #65",
+    "content": "Undersea earthquake ruptured communications cable near Taiwan, degrading manifest synchronization. Tracked incident identifier batch REF-0065. Local operations coordinator filed regional report for US-East.",
+    "category": "network",
+    "region": "US-East",
+    "severity_level": 1,
+    "occurred_at": "2026-10-12T19:00:00+00:00"
+  },
+  {
+    "id": "6aad8080-24f3-5a9d-959a-e610e492f6d1",
+    "title": "Counterfeit tamper-evident seals detected on pharmaceutical container #66",
+    "content": "Security inspection discovered duplicated bolt seals with altered serial numbering on narcotics cargo. Tracked incident identifier batch REF-0066. Local operations coordinator filed regional report for APAC.",
+    "category": "security",
+    "region": "APAC",
+    "severity_level": 4,
+    "occurred_at": "2026-09-25T18:00:00+00:00"
+  },
+  {
+    "id": "40cfe05b-de53-5328-8bab-28e5c75127a4",
+    "title": "Warehouse automated guided vehicle (AGV) sensor failure and collision #67",
+    "content": "LiDAR sensor blind spot on AGV unit 14 caused collision with pallet rack upright beam. Tracked incident identifier batch REF-0067. Local operations coordinator filed regional report for LATAM.",
+    "category": "hardware",
+    "region": "LATAM",
+    "severity_level": 2,
+    "occurred_at": "2026-09-08T17:00:00+00:00"
+  },
+  {
+    "id": "d2432b1d-ffe6-5cb9-a440-e7e88584883e",
+    "title": "Customs audit discovering undeclared lithium-ion battery modules #68",
+    "content": "Dangerous goods audit flagged missing MSDS certification for bulk secondary power cell consignment. Tracked incident identifier batch REF-0068. Local operations coordinator filed regional report for EU-West.",
+    "category": "compliance",
+    "region": "EU-West",
+    "severity_level": 5,
+    "occurred_at": "2026-08-22T16:00:00+00:00"
+  },
+  {
+    "id": "49ab8fa4-5064-5a65-9ff6-66567e6a1105",
+    "title": "Barge grounding on Rhine River due to severe summer drought #69",
+    "content": "Low water levels restricted maximum barge draft, forcing freight transfer to overloaded rail corridors. Tracked incident identifier batch REF-0069. Local operations coordinator filed regional report for US-East.",
+    "category": "delay",
+    "region": "US-East",
+    "severity_level": 3,
+    "occurred_at": "2026-08-05T15:00:00+00:00"
+  },
+  {
+    "id": "c7a328ea-3ab0-5043-8b35-ce2d2b103b25",
+    "title": "Damaged solar panel pallets during intermodal rail hump switching #70",
+    "content": "Excessive coupling impact speeds in rail classification yard fractured tempered glass on 60 solar modules. Tracked incident identifier batch REF-0070. Local operations coordinator filed regional report for APAC.",
+    "category": "damage",
+    "region": "APAC",
+    "severity_level": 1,
+    "occurred_at": "2026-07-19T14:00:00+00:00"
+  },
+  {
+    "id": "d8dff318-484c-545a-8781-3e5d2a7f0b20",
+    "title": "Airport cargo tarmac delay due to extreme winter blizzard #71",
+    "content": "Cargo flights grounded at Chicago O'Hare due to heavy snowfall and runway de-icing chemical shortages. Tracked incident identifier batch REF-0071. Local operations coordinator filed regional report for LATAM.",
+    "category": "delay",
+    "region": "LATAM",
+    "severity_level": 4,
+    "occurred_at": "2026-07-02T13:00:00+00:00"
+  },
+  {
+    "id": "c8094546-a658-579c-93d7-12a53f0c7171",
+    "title": "Stolen high-value pallet of smartphones from distribution warehouse #72",
+    "content": "Organized freight theft gang breached perimeter fencing and stole 400 consumer electronics units. Tracked incident identifier batch REF-0072. Local operations coordinator filed regional report for EU-West.",
+    "category": "lost",
+    "region": "EU-West",
+    "severity_level": 2,
+    "occurred_at": "2026-06-16T12:00:00+00:00"
+  },
+  {
+    "id": "243ae31a-1e5d-5fbf-a03d-b3942b172b66",
+    "title": "Forklift puncture in chemical drum causing hazardous spill #73",
+    "content": "Operator error resulted in punctured 55-gallon drum of industrial solvent; hazmat containment team deployed. Tracked incident identifier batch REF-0073. Local operations coordinator filed regional report for US-East.",
+    "category": "damage",
+    "region": "US-East",
+    "severity_level": 5,
+    "occurred_at": "2026-05-30T11:00:00+00:00"
+  },
+  {
+    "id": "b8eb825b-a782-53f7-b7d1-07c84f6132e4",
+    "title": "Port congestion and container dwell time surge in Long Beach #74",
+    "content": "Average dwell time for import containers exceeded 9 days due to railcar availability deficits. Tracked incident identifier batch REF-0074. Local operations coordinator filed regional report for APAC.",
+    "category": "delay",
+    "region": "APAC",
+    "severity_level": 3,
+    "occurred_at": "2026-11-07T10:00:00+00:00"
+  },
+  {
+    "id": "d2041c8a-8708-5f94-8e97-23f9a6ffeb02",
+    "title": "Subsea fiber optic cable cut interrupting transpacific logistics EDI #75",
+    "content": "Undersea earthquake ruptured communications cable near Taiwan, degrading manifest synchronization. Tracked incident identifier batch REF-0075. Local operations coordinator filed regional report for LATAM.",
+    "category": "network",
+    "region": "LATAM",
+    "severity_level": 1,
+    "occurred_at": "2026-10-21T09:00:00+00:00"
+  },
+  {
+    "id": "c1a8b270-31d1-51a5-8d32-eff6e70cf55c",
+    "title": "Counterfeit tamper-evident seals detected on pharmaceutical container #76",
+    "content": "Security inspection discovered duplicated bolt seals with altered serial numbering on narcotics cargo. Tracked incident identifier batch REF-0076. Local operations coordinator filed regional report for EU-West.",
+    "category": "security",
+    "region": "EU-West",
+    "severity_level": 4,
+    "occurred_at": "2026-10-04T08:00:00+00:00"
+  },
+  {
+    "id": "2dd06592-7920-583c-9d4e-65981da2f09f",
+    "title": "Warehouse automated guided vehicle (AGV) sensor failure and collision #77",
+    "content": "LiDAR sensor blind spot on AGV unit 14 caused collision with pallet rack upright beam. Tracked incident identifier batch REF-0077. Local operations coordinator filed regional report for US-East.",
+    "category": "hardware",
+    "region": "US-East",
+    "severity_level": 2,
+    "occurred_at": "2026-09-17T07:00:00+00:00"
+  },
+  {
+    "id": "bbdca2cf-1511-50cf-bac3-0b5ab453660b",
+    "title": "Customs audit discovering undeclared lithium-ion battery modules #78",
+    "content": "Dangerous goods audit flagged missing MSDS certification for bulk secondary power cell consignment. Tracked incident identifier batch REF-0078. Local operations coordinator filed regional report for APAC.",
+    "category": "compliance",
+    "region": "APAC",
+    "severity_level": 5,
+    "occurred_at": "2026-08-31T06:00:00+00:00"
+  },
+  {
+    "id": "4d2a5d2c-39b4-5528-90f0-2c6843c8ad40",
+    "title": "Barge grounding on Rhine River due to severe summer drought #79",
+    "content": "Low water levels restricted maximum barge draft, forcing freight transfer to overloaded rail corridors. Tracked incident identifier batch REF-0079. Local operations coordinator filed regional report for LATAM.",
+    "category": "delay",
+    "region": "LATAM",
+    "severity_level": 3,
+    "occurred_at": "2026-08-14T05:00:00+00:00"
+  },
+  {
+    "id": "65eddee5-849e-5f9c-b6ed-cc9a0ed5580a",
+    "title": "Damaged solar panel pallets during intermodal rail hump switching #80",
+    "content": "Excessive coupling impact speeds in rail classification yard fractured tempered glass on 60 solar modules. Tracked incident identifier batch REF-0080. Local operations coordinator filed regional report for EU-West.",
+    "category": "damage",
+    "region": "EU-West",
+    "severity_level": 1,
+    "occurred_at": "2026-07-28T04:00:00+00:00"
+  },
+  {
+    "id": "0fa723d5-83e2-5eb2-993d-bf9d4ce351cb",
+    "title": "Airport cargo tarmac delay due to extreme winter blizzard #81",
+    "content": "Cargo flights grounded at Chicago O'Hare due to heavy snowfall and runway de-icing chemical shortages. Tracked incident identifier batch REF-0081. Local operations coordinator filed regional report for US-East.",
+    "category": "delay",
+    "region": "US-East",
+    "severity_level": 4,
+    "occurred_at": "2026-07-11T03:00:00+00:00"
+  },
+  {
+    "id": "6ff412d3-05ce-5f06-9df0-0c5df2471183",
+    "title": "Stolen high-value pallet of smartphones from distribution warehouse #82",
+    "content": "Organized freight theft gang breached perimeter fencing and stole 400 consumer electronics units. Tracked incident identifier batch REF-0082. Local operations coordinator filed regional report for APAC.",
+    "category": "lost",
+    "region": "APAC",
+    "severity_level": 2,
+    "occurred_at": "2026-06-24T02:00:00+00:00"
+  },
+  {
+    "id": "bdba655f-4188-5633-8ba6-8dee1156fd6d",
+    "title": "Forklift puncture in chemical drum causing hazardous spill #83",
+    "content": "Operator error resulted in punctured 55-gallon drum of industrial solvent; hazmat containment team deployed. Tracked incident identifier batch REF-0083. Local operations coordinator filed regional report for LATAM.",
+    "category": "damage",
+    "region": "LATAM",
+    "severity_level": 5,
+    "occurred_at": "2026-06-07T01:00:00+00:00"
+  },
+  {
+    "id": "3aad2383-9a2f-547d-90a7-07d2f6f6bb01",
+    "title": "Port congestion and container dwell time surge in Long Beach #84",
+    "content": "Average dwell time for import containers exceeded 9 days due to railcar availability deficits. Tracked incident identifier batch REF-0084. Local operations coordinator filed regional report for EU-West.",
+    "category": "delay",
+    "region": "EU-West",
+    "severity_level": 3,
+    "occurred_at": "2026-11-15T00:00:00+00:00"
+  },
+  {
+    "id": "7b45a2f8-4998-5f0a-a062-d019de392d91",
+    "title": "Subsea fiber optic cable cut interrupting transpacific logistics EDI #85",
+    "content": "Undersea earthquake ruptured communications cable near Taiwan, degrading manifest synchronization. Tracked incident identifier batch REF-0085. Local operations coordinator filed regional report for US-East.",
+    "category": "network",
+    "region": "US-East",
+    "severity_level": 1,
+    "occurred_at": "2026-10-28T23:00:00+00:00"
+  },
+  {
+    "id": "6506cd41-7c2e-56ce-9819-da6c37e8698e",
+    "title": "Counterfeit tamper-evident seals detected on pharmaceutical container #86",
+    "content": "Security inspection discovered duplicated bolt seals with altered serial numbering on narcotics cargo. Tracked incident identifier batch REF-0086. Local operations coordinator filed regional report for APAC.",
+    "category": "security",
+    "region": "APAC",
+    "severity_level": 4,
+    "occurred_at": "2026-10-11T22:00:00+00:00"
+  },
+  {
+    "id": "4a67f97f-ce32-58d7-8eb6-730d11d128ae",
+    "title": "Warehouse automated guided vehicle (AGV) sensor failure and collision #87",
+    "content": "LiDAR sensor blind spot on AGV unit 14 caused collision with pallet rack upright beam. Tracked incident identifier batch REF-0087. Local operations coordinator filed regional report for LATAM.",
+    "category": "hardware",
+    "region": "LATAM",
+    "severity_level": 2,
+    "occurred_at": "2026-09-24T21:00:00+00:00"
+  },
+  {
+    "id": "b2879e4f-7401-5ffa-aa25-8b1a52c94a8b",
+    "title": "Customs audit discovering undeclared lithium-ion battery modules #88",
+    "content": "Dangerous goods audit flagged missing MSDS certification for bulk secondary power cell consignment. Tracked incident identifier batch REF-0088. Local operations coordinator filed regional report for EU-West.",
+    "category": "compliance",
+    "region": "EU-West",
+    "severity_level": 5,
+    "occurred_at": "2026-09-07T20:00:00+00:00"
+  },
+  {
+    "id": "0ff655b6-31bb-5c61-87f2-b26d2eba0063",
+    "title": "Barge grounding on Rhine River due to severe summer drought #89",
+    "content": "Low water levels restricted maximum barge draft, forcing freight transfer to overloaded rail corridors. Tracked incident identifier batch REF-0089. Local operations coordinator filed regional report for US-East.",
+    "category": "delay",
+    "region": "US-East",
+    "severity_level": 3,
+    "occurred_at": "2026-08-21T19:00:00+00:00"
+  },
+  {
+    "id": "6aa52e19-d0d1-5cb8-8b03-be995f461af0",
+    "title": "Damaged solar panel pallets during intermodal rail hump switching #90",
+    "content": "Excessive coupling impact speeds in rail classification yard fractured tempered glass on 60 solar modules. Tracked incident identifier batch REF-0090. Local operations coordinator filed regional report for APAC.",
+    "category": "damage",
+    "region": "APAC",
+    "severity_level": 1,
+    "occurred_at": "2026-08-04T18:00:00+00:00"
+  },
+  {
+    "id": "08e1f4e0-ce8c-5dfc-be68-ddc95c15a3fd",
+    "title": "Airport cargo tarmac delay due to extreme winter blizzard #91",
+    "content": "Cargo flights grounded at Chicago O'Hare due to heavy snowfall and runway de-icing chemical shortages. Tracked incident identifier batch REF-0091. Local operations coordinator filed regional report for LATAM.",
+    "category": "delay",
+    "region": "LATAM",
+    "severity_level": 4,
+    "occurred_at": "2026-07-18T17:00:00+00:00"
+  },
+  {
+    "id": "2b7f4675-0d78-5f38-8ced-95dd0688b276",
+    "title": "Stolen high-value pallet of smartphones from distribution warehouse #92",
+    "content": "Organized freight theft gang breached perimeter fencing and stole 400 consumer electronics units. Tracked incident identifier batch REF-0092. Local operations coordinator filed regional report for EU-West.",
+    "category": "lost",
+    "region": "EU-West",
+    "severity_level": 2,
+    "occurred_at": "2026-07-01T16:00:00+00:00"
+  },
+  {
+    "id": "9e59f918-1537-5fcf-b78a-e19a156636ea",
+    "title": "Forklift puncture in chemical drum causing hazardous spill #93",
+    "content": "Operator error resulted in punctured 55-gallon drum of industrial solvent; hazmat containment team deployed. Tracked incident identifier batch REF-0093. Local operations coordinator filed regional report for US-East.",
+    "category": "damage",
+    "region": "US-East",
+    "severity_level": 5,
+    "occurred_at": "2026-06-14T15:00:00+00:00"
+  },
+  {
+    "id": "47b58a08-7df8-56f8-a305-f7902da34f81",
+    "title": "Port congestion and container dwell time surge in Long Beach #94",
+    "content": "Average dwell time for import containers exceeded 9 days due to railcar availability deficits. Tracked incident identifier batch REF-0094. Local operations coordinator filed regional report for APAC.",
+    "category": "delay",
+    "region": "APAC",
+    "severity_level": 3,
+    "occurred_at": "2026-05-28T14:00:00+00:00"
+  },
+  {
+    "id": "6788c8b0-90bd-55be-bb16-fff7a91ea1cd",
+    "title": "Subsea fiber optic cable cut interrupting transpacific logistics EDI #95",
+    "content": "Undersea earthquake ruptured communications cable near Taiwan, degrading manifest synchronization. Tracked incident identifier batch REF-0095. Local operations coordinator filed regional report for LATAM.",
+    "category": "network",
+    "region": "LATAM",
+    "severity_level": 1,
+    "occurred_at": "2026-11-05T13:00:00+00:00"
+  },
+  {
+    "id": "7a05c6c4-5ede-59ed-865e-6b9c558db52b",
+    "title": "Counterfeit tamper-evident seals detected on pharmaceutical container #96",
+    "content": "Security inspection discovered duplicated bolt seals with altered serial numbering on narcotics cargo. Tracked incident identifier batch REF-0096. Local operations coordinator filed regional report for EU-West.",
+    "category": "security",
+    "region": "EU-West",
+    "severity_level": 4,
+    "occurred_at": "2026-10-20T12:00:00+00:00"
+  },
+  {
+    "id": "2c8214d1-28e9-50ed-a999-50125d4de656",
+    "title": "Warehouse automated guided vehicle (AGV) sensor failure and collision #97",
+    "content": "LiDAR sensor blind spot on AGV unit 14 caused collision with pallet rack upright beam. Tracked incident identifier batch REF-0097. Local operations coordinator filed regional report for US-East.",
+    "category": "hardware",
+    "region": "US-East",
+    "severity_level": 2,
+    "occurred_at": "2026-10-03T11:00:00+00:00"
+  },
+  {
+    "id": "8ef19da4-b129-5194-9392-6284839147ef",
+    "title": "Customs audit discovering undeclared lithium-ion battery modules #98",
+    "content": "Dangerous goods audit flagged missing MSDS certification for bulk secondary power cell consignment. Tracked incident identifier batch REF-0098. Local operations coordinator filed regional report for APAC.",
+    "category": "compliance",
+    "region": "APAC",
+    "severity_level": 5,
+    "occurred_at": "2026-09-16T10:00:00+00:00"
+  },
+  {
+    "id": "903448e6-adb1-514f-8b19-6917251706ff",
+    "title": "Barge grounding on Rhine River due to severe summer drought #99",
+    "content": "Low water levels restricted maximum barge draft, forcing freight transfer to overloaded rail corridors. Tracked incident identifier batch REF-0099. Local operations coordinator filed regional report for LATAM.",
+    "category": "delay",
+    "region": "LATAM",
+    "severity_level": 3,
+    "occurred_at": "2026-08-30T09:00:00+00:00"
+  },
+  {
+    "id": "ab6cedee-4c37-56ac-bb49-c69bdeb82d5d",
+    "title": "Damaged solar panel pallets during intermodal rail hump switching #100",
+    "content": "Excessive coupling impact speeds in rail classification yard fractured tempered glass on 60 solar modules. Tracked incident identifier batch REF-0100. Local operations coordinator filed regional report for EU-West.",
+    "category": "damage",
+    "region": "EU-West",
+    "severity_level": 1,
+    "occurred_at": "2026-08-13T08:00:00+00:00"
+  }
+]
